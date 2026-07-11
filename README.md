@@ -4,7 +4,7 @@ A Machine Learning web app that predicts the winner of an IPL match
 based on recent team form and historical head-to-head records.
 
 ## 🔗 Live Demo
-[Click here to try the app](YOUR_STREAMLIT_LINK_HERE)
+[Click here to try the app]([YOUR_STREAMLIT_LINK_HERE](https://ipl-match-winner.streamlit.app/))
 
 ## 👩‍💻 Built by
 **Shambhavi** — Machine Learning Project
